@@ -24,5 +24,3 @@ if __name__ == "__main__":
         st.subheader("Train a model in the next page to see the results 👉")
     else:
         display_df()
-
-    st.write(st.session_state)
